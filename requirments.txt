@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+langchain
+langchain_text_splitters
+langchain_huggingface
+faiss-cpu
+google-generativeai
+python-dotenv
